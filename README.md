@@ -23,5 +23,3 @@ Example: An abstract Shape class with an abstract area() method that must be imp
 
 
 ![OOP Pillars](images/OOP-Pillars.jpg)
-<img src="images/OOP-Pillars.jpg" alt="OOP-Pillars.jpg" style="display:block; margin-left:auto; margin-right:auto;">
-
