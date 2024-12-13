@@ -37,5 +37,7 @@ class Rectangle(Shape):
 # Usage
 circle = Circle(5)
 rect = Rectangle(4, 6)
+# shape = Shape() --> Error
+
 print("Circle area:", circle.area())  # 78.5
 print("Rectangle area:", rect.area())  # 24
