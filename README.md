@@ -22,4 +22,4 @@ Key Concept: Abstract classes cannot be instantiated directly and are used to de
 Example: An abstract Shape class with an abstract area() method that must be implemented by all shapes like Circle or Square.
 
 
-![OOP Pillars](images/OOP Pillars.jpg)
+![OOP Pillars](images/OOP-Pillars.jpg)
